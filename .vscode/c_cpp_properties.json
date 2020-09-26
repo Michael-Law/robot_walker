@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/michael/catkin_project/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/michael/catkin_project/src/robot_walker/include/**",
+                "/home/michael/catkin_project/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/michael/catkin_project/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/michael/catkin_project/src/turtlebot3/turtlebot3_slam/include/**",
+                "/home/michael/catkin_project/src/udm_hand_control_annex/include/**",
+                "/home/michael/catkin_project/src/udm_urdf/include/**",
+                "/opt/ros/melodic/share/using_markers/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
