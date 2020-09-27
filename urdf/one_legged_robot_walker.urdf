@@ -10,7 +10,6 @@
         <color rgba="1 0 0 1"/>
     </material>
 
-    <link name="map"/>
 
 <!-- Link for main body -->
   
@@ -24,12 +23,6 @@
     </material>
     </visual>
   </link>
-
-  <joint name="body" type="floating">
-    <parent link="map"/>
-    <child link="base_link"/>
-    <origin xyz="0.0 0.0 0.5"/>
-  </joint>
 
 <!-- Primary left leg section -->
 
